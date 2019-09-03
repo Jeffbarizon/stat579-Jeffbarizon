@@ -1,4 +1,5 @@
 # stat579-Jeffbarizon
+## sub header
 creating first report for stat 579
 Jefferson Barizon
 Classes, research and exercises
